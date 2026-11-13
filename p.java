@@ -1,4 +1,4 @@
-public p{
+class p{
   void main(String[] args){
     System.out.println("hello");
   }
